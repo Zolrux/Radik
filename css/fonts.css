@@ -1,0 +1,64 @@
+/* Gilroy */
+@font-face {
+  font-family: "Gilroy";
+  src: url("../fonts/Gilroy-Regular.ttf");
+  font-style: normal;
+  font-weight: 400;
+  display: swap;
+}
+@font-face {
+  font-family: "Gilroy";
+  src: url("../fonts/Gilroy-Medium.ttf");
+  font-style: normal;
+  font-weight: 500;
+  display: swap;
+}
+@font-face {
+  font-family: "Gilroy";
+  src: url("../fonts/Gilroy-SemiBold.ttf");
+  font-style: normal;
+  font-weight: 600;
+  display: swap;
+}
+@font-face {
+  font-family: "Gilroy";
+  src: url("../fonts/Gilroy-Bold.ttf");
+  font-style: normal;
+  font-weight: 700;
+  display: swap;
+}
+@font-face {
+  font-family: "Gilroy";
+  src: url("../fonts/Gilroy-ExtraBold.ttf");
+  font-style: normal;
+  font-weight: 800;
+  display: swap;
+}
+
+/* Acrom */
+
+@font-face {
+  font-family: "Acrom";
+  src: url("../fonts/Acrom-Bold.ttf");
+  font-style: normal;
+  font-weight: 700;
+  display: swap;
+}
+
+@font-face {
+  font-family: "Acrom";
+  src: url("../fonts/Acrom-ExtraBold.ttf");
+  font-style: normal;
+  font-weight: 800;
+  display: swap;
+}
+
+/* Liquid Crystal */
+
+@font-face {
+  font-family: "Liquid";
+  src: url("../fonts/LiquidCrystal-Normal.otf");
+  font-style: normal;
+  font-weight: 400;
+  display: swap;
+}
